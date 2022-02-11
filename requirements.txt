@@ -1,0 +1,4 @@
+djangorestframework==3.11.2
+django
+pyqrcode
+pypng
